@@ -39,7 +39,7 @@ Imagen: https://tiagobigode.com.br/iaas-paas-saas/
 
 Em um datacenter local, você tem a propriedade da pilha inteira. À medida que você faz a migração para a nuvem, algumas responsabilidades são transferidas para a Microsoft. O diagrama a seguir ilustra as áreas de responsabilidade entre você e a Microsoft, de acordo com o tipo de implantação da pilha.
 
-![image.png](/divisao.png)
+![image.png](/divsao.png)
 
 imagem: https://learn.microsoft.com/pt-br/azure/security/fundamentals/media/shared-responsibility/shared-responsibility.svg
 
