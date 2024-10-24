@@ -9,7 +9,7 @@ Crie uma infra de TI de pagamento conforme o uso alugando servidores, máquinas 
 - O serviço de nuvem mais flexível
 - Você configura e gerencia o hardware para seu aplicativo.
 
-![image.png](iaas.png)
+![image.png](/IaaS.png)
 
 Imagen: https://tiagobigode.com.br/iaas-paas-saas/
 
@@ -20,7 +20,7 @@ Fornece um ambiente para a criação, o teste e a implantação de aplicativos d
 - Focado no desenvolvimento de aplicativos
 - O gerenciamento de plataforma é realizado pelo provedor de nuvem
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d89ebfae-b329-4e94-b0be-d7ede2f4bf8c/a81a6b8d-2506-4171-a15e-52436a21d485/image.png)
+![image.png](/PaaS.png)
 
 Imagen: https://tiagobigode.com.br/iaas-paas-saas/
 
@@ -31,7 +31,7 @@ Os usuários se conectam e usam aplicativos com base em nuvem pela Internet: Por
 - Modelo de preço de pagamento conforme o uso (licença)
 - Os usuários pagam pelo software que utilizam em um modelo de assinatura
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d89ebfae-b329-4e94-b0be-d7ede2f4bf8c/6ee33c6c-b0e7-420e-ab95-997deccbc68e/image.png)
+![image.png](/SaaS.png)
 
 Imagen: https://tiagobigode.com.br/iaas-paas-saas/
 
@@ -39,7 +39,7 @@ Imagen: https://tiagobigode.com.br/iaas-paas-saas/
 
 Em um datacenter local, você tem a propriedade da pilha inteira. À medida que você faz a migração para a nuvem, algumas responsabilidades são transferidas para a Microsoft. O diagrama a seguir ilustra as áreas de responsabilidade entre você e a Microsoft, de acordo com o tipo de implantação da pilha.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d89ebfae-b329-4e94-b0be-d7ede2f4bf8c/8c175d47-2ac4-4dc2-9b91-120287cd8600/image.png)
+![image.png](/divisao.png)
 
 imagem: https://learn.microsoft.com/pt-br/azure/security/fundamentals/media/shared-responsibility/shared-responsibility.svg
 
